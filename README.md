@@ -46,6 +46,3 @@ The resulting model will:
 - Minimize **false positives** to reduce unnecessary alerts.  
 - Provide a scalable and deployable solution for financial institutions.  
 
----
-
-## 📂 Project Structure  
